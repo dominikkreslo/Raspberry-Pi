@@ -1,3 +1,3 @@
-# renberry
+# Raspberry-Pi
 
-A personal repository that holds source code from past and present projects!
+A repository based on projects done on a Raspberry Pi
